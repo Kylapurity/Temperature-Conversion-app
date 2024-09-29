@@ -1,4 +1,4 @@
-# calculate_project
+# Temperature Conversion app
 
 A new Flutter project.
 
